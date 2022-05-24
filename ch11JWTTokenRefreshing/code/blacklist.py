@@ -1,0 +1,1 @@
+BLACKLIST = set()      #The user ids we want to blacklist
